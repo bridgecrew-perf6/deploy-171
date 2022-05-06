@@ -32,7 +32,8 @@ h2 {
 .box2 {
   background: lightseagreen;
   height:100vh;
-  position: top;
+  display: flex;
+  
  
   
 }
@@ -43,14 +44,16 @@ h2 {
   height: 200px;
   border-radius: 200px;
   margin-left: 50px;
+  
+
 }
 
 .square {
   background: teal;
-  width: 200px;
+  width: 400px;
   height: 200px;
-  margin-left: 300px;
-  margin-top: 0px;
+ 
+  margin-left: 50px;
   position: top;
   
 }
