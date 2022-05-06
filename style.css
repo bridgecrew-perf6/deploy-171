@@ -2,7 +2,7 @@
   background: black;
   width: ;
   height: 70px;
-  padding: 20px;
+  padding: 30px;
   Border: 5px solid blue;
   margin: 2px;
   float: center;
@@ -21,9 +21,29 @@ h1 {
   
 }
 
+h2 {
+  color: black;
+  font-family: monospace;
+}
 .box2 {
   background: lightseagreen;
   height:100vh;
-  top:
+  top:0;
+  
+}
+
+.circle {
+  background:pink;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  margin-left: 50px;
+}
+
+.square {
+  background: teal;
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
   
 }
