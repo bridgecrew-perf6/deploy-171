@@ -24,11 +24,16 @@ h1 {
 h2 {
   color: black;
   font-family: monospace;
+  position:;
+  margin-left: 70px;
+  
+  
 }
 .box2 {
   background: lightseagreen;
   height:100vh;
-  top:0;
+  position: top;
+ 
   
 }
 
@@ -45,5 +50,14 @@ h2 {
   width: 200px;
   height: 200px;
   margin-left: 300px;
+  margin-top: 0px;
+  position: top;
   
+}
+
+.rectangle {
+  background: orange;
+  height: 200px;
+  width: 400px;
+  margin-left: 275px;
 }
