@@ -3,14 +3,10 @@
   width: ;
   height: 70px;
   padding: 30px;
-  Border: 5px solid blue;
+  border: 5px solid blue;
   margin: 2px;
   float: center;
-  
-    
 }
-
-
 
 h1 {
   color: white;
@@ -18,44 +14,33 @@ h1 {
   font-size: 30px;
   position: center;
   left: 0;
-  
 }
 
 h2 {
   color: black;
   font-family: monospace;
-  position:;
+  position: ;
   margin-left: 70px;
-  
-  
 }
 .box2 {
-  background: lightseagreen;
-  height:100vh;
   display: flex;
-  
- 
-  
+  flex-wrap: wrap;
 }
 
 .circle {
-  background:pink;
+  background: pink;
   width: 200px;
   height: 200px;
   border-radius: 200px;
-  margin-left: 50px;
-  
-
+  margin-left: 80px;
 }
 
 .square {
   background: teal;
-  width: 400px;
+  width: 200px;
   height: 200px;
- 
-  margin-left: 50px;
-  position: top;
-  
+  margin-left: 80px;
+  margin-top: 20p
 }
 
 .rectangle {
@@ -63,4 +48,8 @@ h2 {
   height: 200px;
   width: 400px;
   margin-left: 275px;
+}
+
+body {
+  background-image: url(https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=650%2Cmetadata=none%2Conerror=redirect%2Cq=85%2Cwidth=968/wp-content/uploads/look-up-at-the-sky-day-1.jpg);
 }
